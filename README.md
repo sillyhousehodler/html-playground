@@ -1,2 +1,2 @@
-# html-portfolio
-just for udemy training
+# html-playground
+just for fun
